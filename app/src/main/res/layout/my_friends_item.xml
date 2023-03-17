@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:background="#FFFFFF">
+    android:background="#252525">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:text="Nama"
             android:fontFamily="@font/poppinsbold"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="18sp"/>
         <TextView
             android:id="@+id/txtFriendEmail"
@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:text="Email"
             android:fontFamily="@font/poppinsbold"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="16sp"/>
         <TextView
             android:layout_marginTop="4dp"
@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:text="Telp"
             android:fontFamily="@font/poppinsbold"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="20sp"/>
 
     </LinearLayout>
